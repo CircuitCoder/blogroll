@@ -1,7 +1,7 @@
 
-<ompl version="2.0">
+<opml version="2.0">
   <head>
-    <title>TITLE</title>
+    <title>Test</title>
   </head>
   <body>
 
@@ -124,5 +124,5 @@
 <outline title="Nicholas Wang" xmlUrl="https://nicho1as.wang/feed/" htmlUrl="https://nicho1as.wang"/>
 
   </body>
-</ompl>
+</opml>
 
